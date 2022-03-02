@@ -9,4 +9,3 @@
 - Pawel Kellner
 
 [Trello](https://trello.com/b/KBfvRi01/keolis#)
-[Github](https://github.com/ScottZ2004/Keolis)
